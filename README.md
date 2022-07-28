@@ -1,2 +1,2 @@
 # landing-page
-nonresponsive
+0 responsiveness 
